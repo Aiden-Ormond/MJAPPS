@@ -467,7 +467,7 @@ private fun GithubCard(onOpen: () -> Unit) {
             Column(modifier = Modifier.weight(1f)) {
                 Text("GitHub 仓库", style = MaterialTheme.typography.titleMedium)
                 Text(
-                    "github.com/MI-KUNs/MJAPPS",
+                    "github.com/Aiden-Ormond",
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
